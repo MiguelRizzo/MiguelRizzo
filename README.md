@@ -1,5 +1,4 @@
 🔭 Estudante de Desenvolvimento WEB
------------------------------------
 📫 @miguelrizzo_ e/ou @miguelrizzx
 
 ##
