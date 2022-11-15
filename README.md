@@ -1,4 +1,4 @@
-<HELLO WORLD/>
+<h1>HELLO WORLD</h1>
 
  🔭 Estudante de Desenvolvimento WEB
  📫 @miguelrizzo_ e/ou @miguelrizzx
